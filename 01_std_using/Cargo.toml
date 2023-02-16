@@ -1,0 +1,17 @@
+[package]
+name = "std_using"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "std_using"
+path = "src/main.rs"
+
+
+[[bin]]
+name = "rc"
+path = "src/rc.rs"
+
+[[bin]]
+name = "panic_1"
+path = "src/panic_1.rs"
