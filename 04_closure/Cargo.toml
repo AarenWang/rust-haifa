@@ -1,0 +1,26 @@
+[package]
+name = "closures"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "thread_spawn"
+path = "src/thread_spawn.rs"
+
+[[bin]]
+name = "closure_size"
+path = "src/closure_size.rs"
+
+[[bin]]
+name = "fn_type"
+path = "src/fn_type.rs"
+
+
+[[bin]]
+name = "fn_counter"
+path = "src/fn_counter.rs"
+
+[[bin]]
+name = "simulate_closure"
+path = "src/simulate_closure.rs"
+
