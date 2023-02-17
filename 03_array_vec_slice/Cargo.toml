@@ -1,0 +1,16 @@
+[package]
+name = "arrays"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "arrays"
+path = "src/arrays.rs"
+
+[[bin]]
+name = "vec_1"
+path = "src/vec_1.rs"
+
+[[bin]]
+name = "slice_1"
+path = "src/slice_1.rs"
