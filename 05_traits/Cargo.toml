@@ -1,0 +1,34 @@
+[package]
+name = "traits"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.5"
+
+[[bin]]
+name = "trait_main"
+path = "src/main.rs"
+
+[[bin]]
+name = "write_trait"
+path = "src/write_trait.rs"
+
+
+[[bin]]
+name = "parse_trait"
+path = "src/parse_trait.rs"
+
+
+[[bin]]
+name = "parse_trait_2"
+path = "src/parse_trait_2.rs"
+
+
+[[bin]]
+name = "trait_add"
+path = "src/trait_add.rs"
+
+[[bin]]
+name = "parse_trait_3"
+path = "src/parse_trait_3.rs"
