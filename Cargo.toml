@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "00_ownership",
+    "01_std_using",
+    "02_string",
+    "03_array_vec_slice",
+    "04_closure",
+    "05_traits"
+]
