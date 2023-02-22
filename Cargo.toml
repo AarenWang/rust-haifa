@@ -6,5 +6,8 @@ members = [
     "02_string",
     "03_array_vec_slice",
     "04_closure",
-    "05_traits"
+    "05_traits",
+    "06_iterator",
+    "07_io",
+    "08_errors",
 ]

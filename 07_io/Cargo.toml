@@ -1,0 +1,8 @@
+[package]
+name = "io_test"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "io_1"
+path = "src/io_1.rs"

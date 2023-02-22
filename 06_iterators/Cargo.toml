@@ -1,0 +1,12 @@
+[package]
+name = "iterators"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "iterators_01"
+path = "src/iterators_01.rs"
+
+[[bin]]
+name = "counter_iterator"
+path = "src/counter_iterator.rs"
