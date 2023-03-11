@@ -1,0 +1,8 @@
+[package]
+name = "std_mic"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "child_process"
+path = "src/child_process.rs"

@@ -1,0 +1,33 @@
+[package]
+name = "convert"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "asref_1"
+path = "src/asref_1.rs"
+
+[[bin]]
+name = "string_1"
+path = "src/string_1.rs"
+
+[[bin]]
+name = "str_1"
+path = "src/str_1.rs"
+
+[[bin]]
+name = "array_1"
+path = "src/array_1.rs"
+
+[[bin]]
+name = "iterator_1"
+path = "src/iterator_1.rs"
+
+[[bin]]
+name = "into_1"
+path = "src/into_1.rs"
+
+
+[[bin]]
+name = "all_convert"
+path = "src/all_convert.rs"
